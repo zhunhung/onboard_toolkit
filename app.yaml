@@ -1,0 +1,64 @@
+googlechrome:
+  name: Google Chrome
+  url: 'https://dl.google.com/chrome/mac/stable/GGRO/googlechrome.dmg'
+  type: dmg
+  category: browser
+firefox:
+  name: Firefox
+  url: 'https://download-installer.cdn.mozilla.net/pub/firefox/releases/76.0.1/mac/en-US/Firefox%2076.0.1.dmg'
+  type: dmg
+  category: browser
+opera:
+  name: Opera
+  url: 'https://net.geo.opera.com/opera/stable/mac'
+  type: zip
+  category: browser
+slack:
+  name: Slack
+  url: 'https://downloads.slack-edge.com/releases/macos/4.5.0/prod/x64/Slack-4.5.0-macOS.dmg'
+  type: dmg
+  category: messenger
+msteams:
+  name: Microsoft Teams
+  url: 'https://statics.teams.cdn.office.net/production-osx/1.3.00.9271/Teams_osx.pkg'
+  category: messenger
+franz:
+  name: Franz
+  url: 'https://github.com/meetfranz/franz/releases/download/v5.5.0/franz-5.5.0.dmg'
+  type: dmg
+  category: messenger
+spectacle:
+  name: Spectacle
+  url: 'https://s3.amazonaws.com/spectacle/downloads/Spectacle+1.2.zip'
+  type: zip
+  category: productivity
+notion:
+  name: Notion
+  url: 'https://desktop-release.notion-static.com/Notion-2.0.7.dmg'
+  type: dmg
+  category: productivity
+vscode:
+  name: Visual Studio Code
+  url: 'https://update.code.visualstudio.com/latest/darwin/stable'
+  type: zip
+  category: ide
+pycharm:
+  name: PyCharm
+  url: 'https://download.jetbrains.com/python/pycharm-community-2020.1.1.dmg?_ga=2.177302502.276195191.1589803329-1892125672.1589803329'
+  type: dmg
+  category: ide
+atom:
+  name: Atom
+  url: 'https://atom.io/download/mac'
+  type: zip
+  category: ide
+sublimetext:
+  name: Sublime Text
+  url: 'https://download.sublimetext.com/Sublime%20Text%20Build%203211.dmg'
+  type: dmg
+  category: ide
+iterm2:
+  name: iTerm2
+  url: 'https://iterm2.com/downloads/stable/iTerm2-3_3_10.zip'
+  type: zip
+  category: ide
