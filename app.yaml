@@ -18,9 +18,15 @@ slack:
   url: 'https://downloads.slack-edge.com/releases/macos/4.5.0/prod/x64/Slack-4.5.0-macOS.dmg'
   type: dmg
   category: messenger
-msteams:
-  name: Microsoft Teams
-  url: 'https://statics.teams.cdn.office.net/production-osx/1.3.00.9271/Teams_osx.pkg'
+telegram:
+  name: Telegram
+  url: 'https://osx.telegram.org/updates/Telegram.dmg'
+  type: dmg
+  category: messenger
+whatsapp:
+  name: WhatsApp
+  url: 'https://web.whatsapp.com/desktop/mac/files/WhatsApp.dmg'
+  type: dmg
   category: messenger
 franz:
   name: Franz
