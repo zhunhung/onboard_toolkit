@@ -4,7 +4,7 @@ Be it for work or personal, make setting up your new Mac OS Laptop a breeze!
 
 ## How to Use
 
-1. Head to onboard toolkit interface [here](https://www.zhunhung.com/onboard-toolkit/index.html).
+1. Head to onboard toolkit UI [here](https://www.zhunhung.com/onboard-toolkit/).
 2. Select the applications you want to install.
 3. Click 'Generate Toolkit' and `onboard_toolkit.sh` will be downloaded automatically.
 4. Run `bash onboard_toolkit.sh`, sit back and relax while it installs for you! 
