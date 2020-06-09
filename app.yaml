@@ -55,7 +55,7 @@ sourcetree:
   category: productivity
 spotify:
   name: Spotify
-  url: 'https://www.spotify.com/us/download/mac/'
+  url: 'https://download.scdn.co/SpotifyInstaller.zip'
   type: zip
   category: productivity
 vscode:
